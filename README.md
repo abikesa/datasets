@@ -26,6 +26,6 @@ Object as `penultimate` recipient of benefit or harm
                                  4. Trial/Ethics
 ```
 
-Dataset as `product or service` that restores **Agency** to the **Principal**  
+Dataset as `product or service` that restores **Agency** to the **Principal**      
 
  
