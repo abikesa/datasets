@@ -10,5 +10,5 @@
 2. Bias
 3. Knowledge
 4. [Ethics](https://chomsky.info/1971xxxx/)
-5. Process
+5. Process  
 6. Datasets
