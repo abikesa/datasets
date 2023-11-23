@@ -19,11 +19,13 @@ Change as `ultimate` unit of meaning
 Object as `penultimate` recipient of benefit or harm
 
 ```
-   1. Study Population
-                      \
-        3. Methods -> 2. Randomized -> 5. Censored -> 6. Dataset
-                      /
-                       4. Trial
+      1. Study Population/Truth
+                                \
+        3. Methods/Knowledge -> 2. Randomized/Bias-Variance -> 5. Censored/Process -> 6. Dataset/Credo
+                                /
+                                 4. Trial/Ethics
 ```
 
 Dataset as `product or service` that restores **Agency** to the **Principal**  
+
+ 
