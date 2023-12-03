@@ -12,6 +12,16 @@
    - Verb
    - Object
 
+```
+       1. Validity
+                  \
+    3. Formula -> 2. Cost -> 5. Transparency -> 6. Datasets
+                  /
+                   4. Expertise
+```
+
+S&P Dow Jones [Indices](https://www.spglobal.com/spdji/en/landing/investment-themes/sustainability/)  
+
 2. Transformation
      
    - Chomsky's theory of `transformational-generative` grammar involves the idea of transforming a deep structure into a surface structure through various transformations. Here are some types of transformations in Chomskyan syntax:
