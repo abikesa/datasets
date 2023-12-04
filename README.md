@@ -9,7 +9,7 @@
 Change as `ultimate` unit of meaning
 
 ```
-              1. Icon
+          1. Construct
                       \
         3. Language -> 2. Modifier -> 5. Verb -> 6. Object
                       /
