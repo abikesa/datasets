@@ -23,6 +23,7 @@ Handel, on the other hand, does focus on `rhythm` and drama, which is evident in
 <a href="https://book.the-turing-way.org/welcome.html"><img src="https://static.dw.com/image/62054308_1004.webp" width="500" align="Right" /></a>
 
 ```sh
+ du -sh local
 find local -type f -exec du -h {} + | sort -rh | head -n 10
 ```
 
